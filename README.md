@@ -1,3 +1,3 @@
-# upload
-Upload
-=9+RANK.EQ(B3,$B$3:$B$23)+COUNTIF($B$3:B3,B3)-1
+=RANDBETWEEN(10, 30)
+=RAND()
+=RANK.EQ(B1, B1:$B$10)
