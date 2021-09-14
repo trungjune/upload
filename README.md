@@ -1,3 +1,1 @@
-=RANDBETWEEN(10, 30)
-=RAND()
-=RANK.EQ(B1, B1:$B$10)
+
